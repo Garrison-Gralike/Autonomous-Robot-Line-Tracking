@@ -126,7 +126,6 @@ Multi-lookahead approaches provide significant benefits in responsiveness and st
 
 
 ## Contributors
-### Top contributors:
 
 <a href="https://github.com/Garrison-Gralike/Autonomous-Robot-Line-Tracking/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Garrison-Gralike/Autonomous-Robot-Line-Tracking" alt="contrib.rocks image" />
@@ -143,17 +142,7 @@ Multi-lookahead approaches provide significant benefits in responsiveness and st
 
 
 
-## Contributors
 
-<a href="https://github.com/<Garrison-Gralike>">
-  <img src="https://avatars.githubusercontent.com/<Garrison-Gralike>" width="50px" alt="Garrison Gralike"/>
-</a>
-<a href="https://github.com/<alpalacioc2>">
-  <img src="https://avatars.githubusercontent.com/<alpalacioc2>" width="50px" alt="Alejandro Caro"/>
-</a>
-<a href="https://github.com/<JaewanM99>">
-  <img src="https://avatars.githubusercontent.com/<JaewanM99>" width="50px" alt="Jaewan McPherson"/>
-</a>
 
 
 ## Contact
